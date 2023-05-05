@@ -1,12 +1,12 @@
 # Proiect_Magazin
 
-Descrierea proiectului este următoarea:
-Se consideră un magazin de tricouri, unde fiecare tricou este caracterizat prin ID, descriere, culoare, mărime și numărul de bucăți disponibile în magazin.
+The project description is as follows:
+It is considered a t-shirt store, where each t-shirt is characterized by ID, description, color, size and number of pieces available in the store.
 
-Am creat un program Java care să permită efectuarea următoarelor operații:
+I have created a Java program that allows the following operations to be performed:
 
-Crearea unui magazin de tricouri;
-Adăugarea de noi tricouri în magazin;
-Efectuarea de vânzări de tricouri din magazin;
-Afisarea raportului de inventar al magazinului, care să includă toate tricourile disponibile în magazin, grupate pe mărime și sortate în ordine alfabetică după descriere;
-Afisarea raportului de vânzări al magazinului, care să includă toate tricourile vândute, grupate pe mărime și sortate în ordine descrescătoare după numărul de bucăți vândute.
+Creating a t-shirt shop;
+Adding new shirts to the store;
+Conducting in-store T-shirt sales;
+Display the store's inventory report, which includes all shirts available in the store, grouped by size and sorted alphabetically by description;
+Display the store's sales report, including all t-shirts sold, grouped by size and sorted in descending order by number of units sold.
